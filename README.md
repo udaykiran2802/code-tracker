@@ -3,10 +3,26 @@
 Code Tracker is designed to help you manage and track your coding practice efficiently using the MERN stack: MongoDB, Express.js, React, and Node.js.
 
 ## Technologies Used
-- 🗄️ **MongoDB** ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-- 🌐 **Express.js** ![Express.js Icon](https://img.icons8.com/ios/48/000000/express-js.png)
-- ⚛️ **React** ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
-- 🖥️ **Node.js** ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)
+
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Icon" style="margin-right: 10px;"/>
+  <span>🗄️ <strong>MongoDB</strong></span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/ios/48/000000/express-js.png" alt="Express.js Icon" style="margin-right: 10px;"/>
+  <span>🌐 <strong>Express.js</strong></span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" style="margin-right: 10px;"/>
+  <span>⚛️ <strong>React</strong></span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Icon" style="margin-right: 10px;"/>
+  <span>🖥️ <strong>Node.js</strong></span>
+</div>
 
 ## 📜 Brief Overview
 
