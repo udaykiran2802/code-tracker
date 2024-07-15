@@ -1,6 +1,8 @@
+# MERN Stack Code Tracker
 # 🚀 Code Tracker: Your Ultimate Coding Companion! 🚀
 
 Code Tracker is designed to help you manage and track your coding practice efficiently using the MERN stack: MongoDB, Express.js, React, and Node.js.
+
 
 ## Technologies Used
 
@@ -54,22 +56,10 @@ Never miss a coding contest again! Code Tracker's Contest Schedule Clock keeps y
 
 With Code Tracker by your side, mastering coding challenges has never been easier. Start your coding journey today and unlock your full potential with Code Tracker!
 
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
----
 
-# MERN Stack Code Tracker
 
-Welcome to the MERN Stack Code Tracker! This project is designed to help you manage and track your code effectively using a modern tech stack: MongoDB, Express.js, React, and Node.js.
 
-## ⭐ Features
-
-- 🔐 **User Authentication**
-- 📂 **Problem Categories**
-- 📊 **Dashboard**
-- 📸 **Image Compression for Uploads**
-- 💅 **Beautiful UI with Styled-Components**
 
 ## 📸 Screenshots
 
