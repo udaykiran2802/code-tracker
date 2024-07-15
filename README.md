@@ -6,22 +6,15 @@ Code Tracker is designed to help you manage and track your coding practice effic
 
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Icon" style="margin-right: 10px;"/>
-  <span>🗄️ <strong>MongoDB</strong></span>
-</div>
-
-<div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/ios/48/000000/express-js.png" alt="Express.js Icon" style="margin-right: 10px;"/>
-  <span>🌐 <strong>Express.js</strong></span>
-</div>
-
-<div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" style="margin-right: 10px;"/>
-  <span>⚛️ <strong>React</strong></span>
-</div>
-
-<div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Icon" style="margin-right: 10px;"/>
-  <span>🖥️ <strong>Node.js</strong></span>
+</div>
+<div style="display: flex; align-items: center;">
+  <span><strong>MongoDB</strong></span>
+  <span style="margin-left: 50px;"><strong>Express.js</strong></span>
+  <span style="margin-left: 50px;"><strong>React</strong></span>
+  <span style="margin-left: 50px;"><strong>Node.js</strong></span>
 </div>
 
 ## 📜 Brief Overview
