@@ -31,10 +31,10 @@ Welcome to the MERN Stack Code Tracker! This project is designed to help you man
 ![Array Problems](screenshots/Array_problems.png)
 
 ### Contest Schedule
-![Contest Schedule](screenshots/Contest-Schedule(2).png)
+![Contest Schedule](screenshots/Contest-Schedule.png)
 
 ### String Problems
-![String Problems](screenshots/StringProblems.png)
+![String Problems](screenshots/String_Problems.png)
 
 ## Installation
 
