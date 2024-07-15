@@ -101,4 +101,4 @@ Welcome to the MERN Stack Code Tracker! This project is designed to help you man
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mern-code-tracker.git
+   git clone https://github.com/Dinesh-aragonda-79/mern-code-tracker.git
