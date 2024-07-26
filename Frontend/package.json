@@ -1,7 +1,7 @@
 {
   "engines":{
     "node":"18.16.0"
-  }
+  },
   "name": "code-tracker",
   "version": "0.1.0",
   "private": true,
